@@ -118,7 +118,7 @@ Date Created: 28-01-2026 10:30:45
 
 **Transaction History:**
 ```
-[28-01-2026 10:30:45] Account Created | Intitial Deposit : 50000
+[28-01-2026 10:30:45] Account Created | Initial Deposit : 50000
 [28-01-2026 10:35:12] Deposit +10000 | New Balance: 60000
 [28-01-2026 10:40:33] Withdrawal -5000 | New Balance: 55000
 ```
