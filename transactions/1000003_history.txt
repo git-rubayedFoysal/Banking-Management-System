@@ -1,0 +1,4 @@
+[28-01-2026 07:45:55] Account Created. - Initial Deposit: 10000
+[29-01-2026 07:01:44] Deposit: +1000 | New Balance: 11000
+[29-01-2026 07:01:50] Withdraw: -300 | New Balance: 10700
+[29-01-2026 07:01:52] Balance Checked.
