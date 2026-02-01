@@ -29,7 +29,7 @@
 
 **Step 1 - Create folders:**
 ```bash
-mkdir accounts transactions admin
+mkdir accounts transactions data admin
 ```
 
 **Step 2 - Initialize counter:**
