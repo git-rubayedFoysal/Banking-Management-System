@@ -1,5 +1,0 @@
-Account Number: 1000003
-Name: Rubayed Ahmed Foysal
-PIN: 59355499
-Balance: 10700.000000
-Date Created: 28-01-2026 07:45:55
