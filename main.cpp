@@ -84,6 +84,7 @@ void deposit(long long acc_no) {
     cout << "Enter The Amount To Deposit: ";
     cin >> amount;
     if (amount < 0) {
+        clearScreen();
         cout << "❌ Invalid Amount, Please Try Again." << endl;
         return;
     }
@@ -130,6 +131,7 @@ void withdraw(long long acc_no) {
     cout << "Enter The Amount To Withdraw: ";
     cin >> amount;
     if (amount < 0) {
+        clearScreen();
         cout << "❌ Invalid Amount, Please Try Again." << endl;
         return;
     }
