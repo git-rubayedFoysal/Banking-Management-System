@@ -1,5 +1,7 @@
 # 🏦 Banking Management System
 
+**Created By:** Rubayed Ahmed Foysal
+
 [![C++](https://img.shields.io/badge/Language-C++-blue?logo=c%2B%2B&style=for-the-badge)](https://isocpp.org/)
 [![Version](https://img.shields.io/badge/Version-1.0-green?style=for-the-badge)](#)
 [![License](https://img.shields.io/badge/License-Educational-lightgrey?style=for-the-badge)](#)
@@ -222,5 +224,5 @@ Free to use for learning. Use, modify, and share as you like!
 4. Follow the 4 setup steps
 
 ---
-
-**Version 1.0 • Created Jan 28, 2026 • Status: ✅ Works**
+**Version 1.0 • Created Jan 28, 2026 • Status: ✅ Works**  
+**Creator:** Rubayed Ahmed Foysal
