@@ -27,12 +27,12 @@
 
 ## ⚡ Quick Setup (4 Steps)
 
-**Step 1 - Create folders:**
+**Step 1 - Create folders (If not present):**
 ```bash
 mkdir accounts transactions data admin
 ```
 
-**Step 2 - Initialize counter:**
+**Step 2 - Initialize counter (If not present):**
 ```bash
 echo "1000000" > data/acc_counter.txt
 ```
