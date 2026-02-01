@@ -32,7 +32,7 @@
 mkdir accounts transactions data admin
 ```
 
-**Step 2 - Initialize counter (If not present):**
+**Step 2 - Initialize counter (If not Initialize):**
 ```bash
 echo "1000000" > data/acc_counter.txt
 ```
