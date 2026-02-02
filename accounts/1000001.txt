@@ -1,0 +1,5 @@
+Account Number: 1000001
+Name: MD XYZ
+PIN: 53439199
+Balance: 11000.000000
+Date Created: 02-02-2026 14:30:52

@@ -17,6 +17,7 @@ using namespace std;
 long long hash_pin(long long pin) {
     return (pin * 3700 * 13 + 99) ^ (pin >> 21);
 }
+
 // Clear terminal
 void clearScreen() {
 #ifdef _WIN32
