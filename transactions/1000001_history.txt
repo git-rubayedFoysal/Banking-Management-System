@@ -1,3 +1,0 @@
-[02-02-2026 14:30:52] Account Created. - Initial Deposit: 10000
-[02-02-2026 14:31:39] Deposit: +1000 | New Balance: 11000
-[02-02-2026 14:32:00] Balance Checked.
